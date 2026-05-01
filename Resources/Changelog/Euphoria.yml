@@ -2524,3 +2524,9 @@ Entries:
       message: The Oracle now yells out its requests to everyone in earshot.
   id: 315
   time: '2026-05-01T05:07:04.0000000+00:00'
+- author: civilCornball
+  changes:
+    - type: Fix
+      message: Ore Boxes can now hold artifact fragments.
+  id: 316
+  time: '2026-05-01T10:02:28.0000000+00:00'
