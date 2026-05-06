@@ -2633,3 +2633,9 @@ Entries:
       message: Sample Collectors have arrived to service station crew.
   id: 330
   time: '2026-05-06T11:15:42.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Sechtech has been added to train & archivists get thier locker.
+  id: 331
+  time: '2026-05-06T12:04:43.0000000+00:00'
