@@ -2744,3 +2744,15 @@ Entries:
       message: Instrument flatpack for more flatpacks to be added
   id: 344
   time: '2026-05-09T22:49:38.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        A Sechtech jobs slot has been added to Hammurabi & Archivists get their
+        locker.
+    - type: Fix
+      message: >-
+        Justice now has their telecom server again & medical gets their crew
+        monitor server back.
+  id: 345
+  time: '2026-05-12T17:46:38.0000000+00:00'
