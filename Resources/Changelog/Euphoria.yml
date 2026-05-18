@@ -2921,3 +2921,9 @@ Entries:
       message: 'Changed fixture radius of Chitinids to no longer get stuck in doors. '
   id: 365
   time: '2026-05-18T02:23:24.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Tweak
+      message: Signing now only requires one free hand rather than two.
+  id: 366
+  time: '2026-05-18T04:14:15.0000000+00:00'
