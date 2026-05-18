@@ -2964,3 +2964,21 @@ Entries:
       message: Paper and mail can now be slid under airlock doors.
   id: 369
   time: '2026-05-18T11:41:23.0000000+00:00'
+- author: Tarazicon
+  changes:
+    - type: Add
+      message: >-
+        Nuclear reactors are available for purchase at logistics! Just.. don't
+        eat the fuel rods. Seriously.
+    - type: Add
+      message: >-
+        A new guidebook entry has been added for the nuclear reactor, better
+        read up, engineers!
+    - type: Add
+      message: >-
+        Added a new alert level: ORANGE. This is to be used when the station is
+        on the brink of becoming uninhabitable, such as a loose or a meltdown.
+        (The nuclear reactor automatically calls for code orange during a
+        meltdown.)
+  id: 370
+  time: '2026-05-18T12:33:25.0000000+00:00'
