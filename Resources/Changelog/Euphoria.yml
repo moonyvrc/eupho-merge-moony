@@ -2996,3 +2996,11 @@ Entries:
         multiple crimes.
   id: 372
   time: '2026-05-21T10:12:52.0000000+00:00'
+- author: ScarlettJFG
+  changes:
+    - type: Fix
+      message: >-
+        A minor bug with written languages caused the tooltip to flicker for
+        some people. I said fuck that and found a fix.
+  id: 373
+  time: '2026-05-21T14:45:54.0000000+00:00'
