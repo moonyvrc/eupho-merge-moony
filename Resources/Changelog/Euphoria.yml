@@ -3067,3 +3067,9 @@ Entries:
       message: 6 Delta V Lobby Art
   id: 381
   time: '2026-05-23T08:15:46.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Ducky Slippers will now quack again.
+  id: 382
+  time: '2026-05-24T02:14:15.0000000+00:00'
