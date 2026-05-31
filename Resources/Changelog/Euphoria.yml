@@ -3298,3 +3298,9 @@ Entries:
         all species.
   id: 413
   time: '2026-05-30T23:13:34.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Tweak
+      message: PTL is 5x more resistant to charging.
+  id: 414
+  time: '2026-05-31T11:35:32.0000000+00:00'
