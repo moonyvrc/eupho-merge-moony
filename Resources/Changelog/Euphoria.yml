@@ -3434,3 +3434,17 @@ Entries:
         for you to be able to set the frequency, toggle the mic and or speaker.
   id: 431
   time: '2026-06-08T02:21:58.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Departmental ID Collars are here, most station roles will have access to
+        Emotional Support Collars that function as PDAs.
+    - type: Add
+      message: Justice & Service now have their own sprites for department collars.
+    - type: Add
+      message: >-
+        New collars have been made for all collar options. Find them in vending
+        machines the Uniform Printer.
+  id: 432
+  time: '2026-06-08T02:22:41.0000000+00:00'
