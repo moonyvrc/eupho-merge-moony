@@ -3530,3 +3530,11 @@ Entries:
       message: A new plushie chew toy is on the market.
   id: 442
   time: '2026-06-10T12:35:51.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Inert anomaly cores can now be turned into hats. These hats will have
+        the visual affects of infection anoms.
+  id: 443
+  time: '2026-06-10T12:43:00.0000000+00:00'
