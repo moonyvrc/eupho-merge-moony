@@ -3568,3 +3568,11 @@ Entries:
       message: Tajara now have Siik'Maas as their primary language.
   id: 447
   time: '2026-06-12T19:28:49.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Two kinds of bongs can be crafted in the construction menu, the wooden
+        variant can be found in the Shady Cigs vendor.
+  id: 448
+  time: '2026-06-12T19:33:43.0000000+00:00'
