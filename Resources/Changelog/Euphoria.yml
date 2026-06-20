@@ -3740,3 +3740,9 @@ Entries:
       message: Premium and SecHud cybereyes modules are selectable.
   id: 467
   time: '2026-06-20T23:34:08.0000000+00:00'
+- author: Tarazicon
+  changes:
+    - type: Remove
+      message: Removed the EMP Preparedness mail. Silicons, rejoice!
+  id: 468
+  time: '2026-06-20T23:35:11.0000000+00:00'
