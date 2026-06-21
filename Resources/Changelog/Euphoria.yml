@@ -3798,3 +3798,11 @@ Entries:
         menu.
   id: 475
   time: '2026-06-21T07:50:23.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added 🦐 Fisher Outfit to AutoDrobe
+    - type: Tweak
+      message: Made 🍤 Fisher Outfit warm enough to walk outside on Glacier
+  id: 476
+  time: '2026-06-21T07:51:35.0000000+00:00'
